@@ -1,2 +1,10 @@
-# google-security-bypass
-This repository contains technical evidence of a logical bypass vulnerability found in Google's systems. Despite providing clear proof of a 200 OK status on restricted paths via HTTP/2 logic, Google VRP has dismissed it as "Intended Behavior." ​This documentation serves as a public disclosure of the flaw and the evidence that was ignored.
+# Google Security Bypass Evidence
+
+![Evidence 1](WhatsApp Image 2026-02-13 at 1.38.17 PM.jpeg)
+![Evidence 2](WhatsApp Image 2026-02-13 at 1.38.27 PM (1).jpeg)
+![Evidence 3](WhatsApp Image 2026-02-13 at 1.38.27 PM.jpeg)
+![Evidence 4](WhatsApp Image 2026-02-13 at 1.40.12 PM.jpeg)
+![Evidence 5](WhatsApp Image 2026-02-13 at 1.43.00 PM.jpeg)
+![Evidence 6](WhatsApp Image 2026-02-13 at 1.43.58 PM.jpeg)
+![Evidence 7](WhatsApp Image 2026-02-13 at 1.54.37 PM.jpeg)
+
